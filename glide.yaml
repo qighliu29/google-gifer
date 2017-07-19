@@ -1,6 +1,5 @@
 package: github.com/qighliu29/google-gifer
 import:
 - package: github.com/bitly/go-simplejson
-- package: github.com/songtianyi/wechat-go
-  subpackages:
-  - wxweb
+ignore:
+- github.com/qighliu29/wechat-go/wxweb

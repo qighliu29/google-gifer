@@ -1,0 +1,14 @@
+hash: eefb679f1cbaff7751b599a563372c6069aa175a5a18f7276d0b1575cf17948b
+updated: 2017-07-17T10:54:06.3916498+08:00
+imports:
+- name: github.com/bitly/go-simplejson
+  version: da1a8928f709389522c8023062a3739f3b4af419
+- name: github.com/songtianyi/rrframework
+  version: feb983ace8e14330bba25f268d3c4a235a51b6c2
+  subpackages:
+  - logs
+- name: golang.org/x/net
+  version: f01ecb60fe3835d80d9a0b7b2bf24b228c89260e
+  subpackages:
+  - websocket
+testImports: []
